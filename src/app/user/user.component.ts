@@ -3,9 +3,9 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-user',
   standalone: true,
-  templateUrl: './user.html',
-  styleUrl: './user.css'
+  templateUrl: './user.component.html',
+  styleUrl: './user.component.css'
 })
-export class User {
+export class UserComponent {
 
 }
